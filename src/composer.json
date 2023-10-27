@@ -1,0 +1,14 @@
+{
+    "name": "eb/php-oop-example",
+    "type": "pr",
+    "license": "unlicense",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        },
+        "files": [
+            "frm/fun.php"
+        ]
+    },
+    "require": {}
+}
